@@ -1,8 +1,12 @@
-# Welcome to the MEDS Snow Today Capstone Project
+# ❄️ Welcome to the MEDS Snow Today Capstone Project ❄️
 
 University of California Santa Barbara<br>
 Bren School for Environmental Science & Management - Master of Environmental Data Science <br>
 Capstone Project - June 2022
+
+**Students**
+
+🏂 [Ryan Munnikhuis](https://github.com/RyanMunnikhuis), ☃️ [Julia Parish](https://github.com/juliaparish), ⛷️ [Marie Rivers](https://github.com/marierivers)
 
 **Faculty Advisors**
 
@@ -15,9 +19,9 @@ Capstone Project - June 2022
 [Ned Bair](https://github.com/edwardbair), UCSB Earth Research Institute<br>
 [Karl Rittger](https://github.com/krittger), [CU Boulder Institute of Arctic and Alpine Research](https://instaar.colorado.edu/)
 
-For more information on the Bren School of Environmental Science & Managment's Master of Environmental Data Science (MEDS) program, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
+For more information on the Bren School of Environmental Science & Management's Master of Environmental Data Science (MEDS) program, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
-To learn about the MEDS Capstone projects, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/meds-capstone-projects)
+To learn about the MEDS Capstone projects, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/meds-capstone-projects).
 
 
 <!--
