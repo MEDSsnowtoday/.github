@@ -4,6 +4,22 @@ University of California Santa Barbara<br>
 Bren School for Environmental Science & Management - Master of Environmental Data Science <br>
 Capstone Project - June 2022
 
+### Improving Usability of Snow Data Through Web Based Visualizations and Tutorials
+An open source workflow for processing and visualizing data from the [Snow Today](https://nsidc.org/reports/snow-today) research team. 
+
+## Purpose
+
+
+
+## Organization Details
+
+There are four public repositories within this organization. These repositories form the foundation of the group's capstone project. 
+
+
+## Contributing
+
+Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on either of the repositories. Please contact the creators of this project organization via the student's GitHub links listed below. 
+
 **Students**
 
 🏂 [Ryan Munnikhuis](https://github.com/RyanMunnikhuis), ☃️ [Julia Parish](https://github.com/juliaparish), ⛷️ [Marie Rivers](https://github.com/marierivers)
@@ -19,18 +35,8 @@ Capstone Project - June 2022
 [Ned Bair](https://github.com/edwardbair), UCSB Earth Research Institute<br>
 [Karl Rittger](https://github.com/krittger), [CU Boulder Institute of Arctic and Alpine Research](https://instaar.colorado.edu/)
 
+**More Information**
 For more information on the Bren School of Environmental Science & Management's Master of Environmental Data Science (MEDS) program, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
 To learn about the MEDS Capstone projects, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/meds-capstone-projects).
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
