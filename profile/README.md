@@ -1,7 +1,7 @@
 # Welcome to the MEDS Snow Today Capstone Project GitHub Organization
 
-University of California Santa Barbara
-Bren School for Environmental Science & Management Master of Environmental Data Science 
+University of California Santa Barbara<br>
+Bren School for Environmental Science & Management - Master of Environmental Data Science <br>
 Capstone Project - June 2022
 
 **Faculty Advisors**
@@ -14,13 +14,6 @@ Capstone Project - June 2022
 [Timbo Stillinger](https://github.com/Timbo-Stillinger), [UCSB Earth Research Insititute](https://www.eri.ucsb.edu/)<br>
 [Ned Bair](https://github.com/edwardbair), UCSB Earth Research Institute<br>
 [Karl Rittger](https://github.com/krittger), [CU Boulder Institute of Arctic and Alpine Research](https://instaar.colorado.edu/)
-
-
-## Data Sources
-
-Data is available from [the National Snow and Ice Data Center's Snow Today website](https://nsidc.org/reports/snow-today), and [the University of California Santa Barbara's Earth Research Insititute](https://snow.ucsb.edu/index.php/remotely-sensed-products/).
-
-## References
 
 For more information on the Bren School of Environmental Science & Managment's Master of Environmental Data Science (MEDS) program, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
