@@ -5,12 +5,14 @@ Bren School for Environmental Science & Management Master of Environmental Data 
 Capstone Project - June 2022
 
 **Faculty Advisors**
-[Dr. Allison Horst](https://github.com/allisonhorst), Bren School for Environmental Science & Management
+
+[Dr. Allison Horst](https://github.com/allisonhorst), Bren School for Environmental Science & Management<br>
 [Dr. Sam Stevenson](https://github.com/samanthastevenson), Bren School for Environmental Science & Management
 
 **Clients**
-[Timbo Stillinger](https://github.com/Timbo-Stillinger), [UCSB Earth Research Insititute](https://www.eri.ucsb.edu/)
-[Ned Bair](https://github.com/edwardbair), UCSB Earth Research Institute
+
+[Timbo Stillinger](https://github.com/Timbo-Stillinger), [UCSB Earth Research Insititute](https://www.eri.ucsb.edu/)<br>
+[Ned Bair](https://github.com/edwardbair), UCSB Earth Research Institute<br>
 [Karl Rittger](https://github.com/krittger), [CU Boulder Institute of Arctic and Alpine Research](https://instaar.colorado.edu/)
 
 
