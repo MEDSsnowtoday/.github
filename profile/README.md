@@ -19,7 +19,7 @@ Review our organizations [Codes of Coduct](https://github.com/MEDSsnowtoday/.git
 
 ## Contributing
 
-Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on either of the repositories. Contact the creators of this project organization via the student's GitHub links listed below. 
+Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on the relevant repository, or contact the creators of this project organization via GitHub links listed in the *Students* section below. 
 
 **Students**
 
