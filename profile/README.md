@@ -15,10 +15,11 @@ An open source workflow for processing and visualizing data from the [Snow Today
 
 There are four public repositories within this organization. These repositories form the foundation of the group's capstone project. 
 
+Review our organizations [Codes of Coduct](https://github.com/MEDSsnowtoday/.github/blob/main/CODE_OF_CONDUCT.md) - a guideline of expectations for our community.
 
 ## Contributing
 
-Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on either of the repositories. Please contact the creators of this project organization via the student's GitHub links listed below. 
+Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on either of the repositories. Contact the creators of this project organization via the student's GitHub links listed below. 
 
 **Students**
 
