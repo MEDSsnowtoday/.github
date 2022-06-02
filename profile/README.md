@@ -19,7 +19,7 @@ An open source workflow for processing and visualizing data from the [Snow Today
 
 ## Organization Details
 
-There are four public repositories within this organization. These repositories form the foundation of the group's capstone project. 
+Four public repositories form the foundation of the Snow Today group capstone project. The [snow_today_shiny_app}(https://github.com/MEDSsnowtoday/snow_today_shiny_app)
 
 Review our organizations [Codes of Coduct](https://github.com/MEDSsnowtoday/.github/blob/main/CODE_OF_CONDUCT.md) - a guideline of expectations for our community.
 
@@ -44,7 +44,7 @@ Suggestions for improvements to the code or documentation is welcome and encoura
 [Ned Bair](https://github.com/edwardbair), [UCSB Earth Research Insititute](https://www.eri.ucsb.edu/)<br>
 [Karl Rittger](https://github.com/krittger), [CU Boulder Institute of Arctic and Alpine Research](https://instaar.colorado.edu/)
 
-**More Information** <br>
+**Additional Project Information** <br>
 For more information on the Bren School of Environmental Science & Management's Master of Environmental Data Science (MEDS) program, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
 
 To learn about the MEDS Capstone projects, [please visit here](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/meds-capstone-projects).
