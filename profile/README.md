@@ -19,13 +19,13 @@ An open source workflow for processing and visualizing data from the [Snow Today
 
 ## Organization Details
 
-Four public repositories form the foundation of the Snow Today group capstone project. The [snow_today_shiny_app}(https://github.com/MEDSsnowtoday/snow_today_shiny_app)
+Four public repositories form the foundation of the Snow Today group capstone project. The [snow_today_shiny_app](https://github.com/MEDSsnowtoday/snow_today_shiny_app) repository host the web applicationd developed to showcase our project's interactive visualization deliverables.  
 
 Review our organizations [Codes of Coduct](https://github.com/MEDSsnowtoday/.github/blob/main/CODE_OF_CONDUCT.md) - a guideline of expectations for our community.
 
 ## Contributing
 
-Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on the relevant repository, or contact the creators of this project organization via GitHub links listed in the *Students* section below. 
+Suggestions for improvements to the code or documentation is welcome and encouraged, though please be aware that moderation of this organization will be limited after August 2022. Please submit questions, comments, or code via issues or pull requests on the relevant repository, or contact the creators of this project organization via GitHub links listed in the *Students* section below. 
 
 ## MEDS Snow Today Capstone Team
 
