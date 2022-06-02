@@ -15,7 +15,7 @@ An open source workflow for processing and visualizing data from the [Snow Today
 .
 
 
-*View our project presentation presented at the UCSB Bren School of Environmental Science & Management on May 26, 2022 [here](https://docs.google.com/presentation/d/e/2PACX-1vSTkyZ4s4HSoEGj-ChDFdXMSpLMUVMtDysy-05QCkDtOm3_xyc7wBcae3zqllXPxSlb46HSGXOvewi7/pub?start=false&loop=false&delayms=3000).*
+*View our project presentation delivered at the UCSB Bren School of Environmental Science & Management on May 26, 2022 [here](https://docs.google.com/presentation/d/e/2PACX-1vSTkyZ4s4HSoEGj-ChDFdXMSpLMUVMtDysy-05QCkDtOm3_xyc7wBcae3zqllXPxSlb46HSGXOvewi7/pub?start=false&loop=false&delayms=3000).*
 
 ## Organization Details
 
@@ -41,7 +41,7 @@ Suggestions for improvements to the code or documentation is welcome and encoura
 **Clients**
 
 [Timbo Stillinger](https://github.com/Timbo-Stillinger), [UCSB Earth Research Insititute](https://www.eri.ucsb.edu/)<br>
-[Ned Bair](https://github.com/edwardbair), UCSB Earth Research Institute<br>
+[Ned Bair](https://github.com/edwardbair), [UCSB Earth Research Insititute](https://www.eri.ucsb.edu/)<br>
 [Karl Rittger](https://github.com/krittger), [CU Boulder Institute of Arctic and Alpine Research](https://instaar.colorado.edu/)
 
 **More Information** <br>
