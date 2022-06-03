@@ -4,12 +4,12 @@ University of California Santa Barbara<br>
 Bren School for Environmental Science & Management - Master of Environmental Data Science <br>
 Capstone Project - June 2022
 
-### Improving Usability of Snow Data Through Web Based Visualizations and Tutorials
+### Improving Usability of Snow Data Through Web-based Visualizations and Tutorials
 An open source workflow for processing and visualizing data from the [Snow Today](https://nsidc.org/reports/snow-today) research team. 
 
 ## Purpose
 
-Scientists at the [UCSB Earth Research Institute](https://www.eri.ucsb.edu/) help communicate remotely sensed snow conditions through the Snow Today website, which presents daily images and monthly updates of snow variables, such as albedo. The data used to generate these insights are available on the website, but since the analysis is completed with Matlab, a proprietary computational software system, the workflow does not follow open-source data practices. This Capstone project addresses these limitations by creating an open-source workflow that improves the usability of snow data through interactive web-based visualizations and Python-based tutorials. As the impacts of climate change continue to affect snow conditions, the improved usability of Snow Today’s datasets allows for customized analyses of snow data for specific regions of interest to support decision making for water supply allocation, hydrologic research, and recreational planning. 
+Scientists at the [UCSB Earth Research Institute](https://www.eri.ucsb.edu/) help communicate remotely sensed snow conditions through the Snow Today website, which presents daily images and monthly updates of snow variables, such as snow cover and albedo. The data used to generate these insights are available on the website, but since the analysis is completed with Matlab, a proprietary computational software system, the workflow does not follow open-source data practices. Remotely sensed snow data provides valuable information, but technical expertise can be a barrier to extracting meaningful insights from this data. This Capstone project addresses these limitations by creating an open-source workflow that improves the usability of snow data through interactive web-based visualizations and Python-based tutorials. As the impacts of climate change continue to affect snow conditions, the improved usability of Snow Today’s datasets allows for customized analyses of snow data for specific regions of interest to support decision making for water supply allocation, hydrologic research, and recreational planning. 
 
 
 *View our project presentation delivered at the UCSB Bren School of Environmental Science & Management on May 26, 2022 [here](https://docs.google.com/presentation/d/e/2PACX-1vSTkyZ4s4HSoEGj-ChDFdXMSpLMUVMtDysy-05QCkDtOm3_xyc7wBcae3zqllXPxSlb46HSGXOvewi7/pub?start=false&loop=false&delayms=3000).*
