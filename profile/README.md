@@ -13,11 +13,15 @@ Scientists at the [UCSB Earth Research Institute](https://www.eri.ucsb.edu/) hel
 
 The Capstone project technical documentation can be viewed [here](https://medssnowtoday.github.io/Technical_Documentation/).
 
-*View our project presentation delivered at the UCSB Bren School of Environmental Science & Management on May 26, 2022 [here](https://docs.google.com/presentation/d/e/2PACX-1vSTkyZ4s4HSoEGj-ChDFdXMSpLMUVMtDysy-05QCkDtOm3_xyc7wBcae3zqllXPxSlb46HSGXOvewi7/pub?start=false&loop=false&delayms=3000).*
+View our project presentation delivered at the UCSB Bren School of Environmental Science & Management MEDS Public Presentations on May 26, 2022 [here](https://docs.google.com/presentation/d/e/2PACX-1vSTkyZ4s4HSoEGj-ChDFdXMSpLMUVMtDysy-05QCkDtOm3_xyc7wBcae3zqllXPxSlb46HSGXOvewi7/pub?start=false&loop=false&delayms=3000). Timestamp: 32:00-46:00.
 
 ## Organization Details
 
-Four public repositories form the foundation of the Snow Today GitHub organization and Capstone Project. The [snow_today_shiny_app](https://github.com/MEDSsnowtoday/snow_today_shiny_app) repository hosts the web application developed to showcase our Project’s interactive visualization deliverables. [Tutorials](https://github.com/MEDSsnowtoday/Tutorials) contain three Python notebooks that aid snow data users in downloading, accessing, processing, and visualizing the [National Snow and Ice Data Center's (NSIDC) Snow Today](https://nsidc.org/reports/snow-today)  snow cover and albedo datasets. The third repository hosts our Project's [technical documentation](https://github.com/MEDSsnowtoday/Technical_Documentation). The Technical Documentation provides a functional discussion of the Snow Today Capstone project’s objectives, solution design, products, testing, and user documentation. [Data processing](https://github.com/MEDSsnowtoday/data_processing) has python notebooks that create tacked GeoTIFF files of snow cover percent and albedo for each water year. 
+Four public repositories form the foundation of the Snow Today GitHub organization and Capstone Project. 
+- The [snow_today_shiny_app](https://github.com/MEDSsnowtoday/snow_today_shiny_app) repository hosts the web application developed to showcase our Project’s interactive visualization deliverables. 
+- [Tutorials](https://github.com/MEDSsnowtoday/Tutorials) contain three Python notebooks that aid snow data users in downloading, accessing, processing, and visualizing the [National Snow and Ice Data Center's (NSIDC) Snow Today](https://nsidc.org/reports/snow-today)  snow cover and albedo datasets. 
+- The third repository hosts our Project's [technical documentation](https://github.com/MEDSsnowtoday/Technical_Documentation). 
+- The Technical Documentation provides a functional discussion of the Snow Today Capstone project’s objectives, solution design, products, testing, and user documentation. [Data processing](https://github.com/MEDSsnowtoday/data_processing) has python notebooks that create stacked GeoTIFF files of snow cover percent and albedo for each water year. 
  
 
 Review our organizations [Codes of Conduct](https://github.com/MEDSsnowtoday/.github/blob/main/CODE_OF_CONDUCT.md) - a guideline of expectations for our community.
