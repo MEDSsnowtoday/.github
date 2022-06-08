@@ -1,6 +1,6 @@
 # ❄️ Welcome to the MEDS Snow Today Capstone Project ❄️
 
-University of California Santa Barbara<br>
+University of California, Santa Barbara<br>
 Bren School for Environmental Science & Management - Master of Environmental Data Science <br>
 Capstone Project - June 2022
 
