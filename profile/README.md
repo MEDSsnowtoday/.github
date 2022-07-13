@@ -24,7 +24,7 @@ Four public repositories form the foundation of the Snow Today GitHub organizati
 - [Data processing](https://github.com/MEDSsnowtoday/data_processing) has python notebooks that create stacked GeoTIFF files of snow cover percent and albedo for each water year. 
  
 
-Review our organizations [Codes of Conduct](https://github.com/MEDSsnowtoday/.github/blob/main/CODE_OF_CONDUCT.md) - a guideline of expectations for our community.
+Review our organization's [Codes of Conduct](https://github.com/MEDSsnowtoday/.github/blob/main/CODE_OF_CONDUCT.md) - a guideline of expectations for our community.
 
 ## Contributing
 
